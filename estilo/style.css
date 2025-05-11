@@ -120,7 +120,7 @@ background-attachment: fixed;
 }
 
 section#img02 {
-    background-image: url('../imagens/pastor-prospero.jpg');
+    background-image: url('/IEGP/imagens/pastor-prospero.jpg');
     background-position: center center;
 }
 
